@@ -1,0 +1,497 @@
+[
+  {
+    "title": "在社交场合中，你更倾向于：",
+    "options": [
+      {
+        "result": "E",
+        "value": "与大家保持活跃的交流",
+        "key": "A"
+      },
+      {
+        "result": "I",
+        "value": "与少数几人进行深入交谈",
+        "key": "B"
+      }
+    ]
+  },
+  {
+    "title": "你更喜欢如何度过空闲时间：",
+    "options": [
+      {
+        "result": "S",
+        "value": "进行实际操作或活动",
+        "key": "A"
+      },
+      {
+        "result": "N",
+        "value": "思考或探索新的想法",
+        "key": "B"
+      }
+    ]
+  },
+  {
+    "title": "在组织事务时，你更倾向于：",
+    "options": [
+      {
+        "result": "J",
+        "value": "有条不紊地完成每个步骤",
+        "key": "A"
+      },
+      {
+        "result": "P",
+        "value": "根据需要随机应变",
+        "key": "B"
+      }
+    ]
+  },
+  {
+    "title": "你对待决策时更看重：",
+    "options": [
+      {
+        "result": "T",
+        "value": "客观事实和逻辑分析",
+        "key": "A"
+      },
+      {
+        "result": "F",
+        "value": "个人价值观和情感因素",
+        "key": "B"
+      }
+    ]
+  },
+  {
+    "title": "你更喜欢哪种工作环境：",
+    "options": [
+      {
+        "result": "E",
+        "value": "充满活力和团队合作的环境",
+        "key": "A"
+      },
+      {
+        "result": "I",
+        "value": "安静且独立的工作环境",
+        "key": "B"
+      }
+    ]
+  },
+  {
+    "title": "你在处理问题时更倾向于：",
+    "options": [
+      {
+        "result": "S",
+        "value": "关注具体细节和现实情况",
+        "key": "A"
+      },
+      {
+        "result": "N",
+        "value": "寻找整体模式和未来可能性",
+        "key": "B"
+      }
+    ]
+  },
+  {
+    "title": "你如何看待计划和安排：",
+    "options": [
+      {
+        "result": "J",
+        "value": "喜欢提前规划并按计划执行",
+        "key": "A"
+      },
+      {
+        "result": "P",
+        "value": "更喜欢灵活应对和即兴安排",
+        "key": "B"
+      }
+    ]
+  },
+  {
+    "title": "在学习新事物时，你更倾向于：",
+    "options": [
+      {
+        "result": "S",
+        "value": "通过实践和具体经验学习",
+        "key": "A"
+      },
+      {
+        "result": "N",
+        "value": "通过理论和抽象概念学习",
+        "key": "B"
+      }
+    ]
+  },
+  {
+    "title": "在处理日常任务时，你更注重：",
+    "options": [
+      {
+        "result": "S",
+        "value": "按照固定程序和步骤进行",
+        "key": "A"
+      },
+      {
+        "result": "N",
+        "value": "寻找新的方法和创新",
+        "key": "B"
+      }
+    ]
+  },
+  {
+    "title": "你在做决定时更看重：",
+    "options": [
+      {
+        "result": "T",
+        "value": "逻辑分析和客观数据",
+        "key": "A"
+      },
+      {
+        "result": "F",
+        "value": "个人价值观和情感反应",
+        "key": "B"
+      }
+    ]
+  },
+  {
+    "title": "你对规则和约束的态度是：",
+    "options": [
+      {
+        "result": "J",
+        "value": "喜欢有明确的规则和约束",
+        "key": "A"
+      },
+      {
+        "result": "P",
+        "value": "更喜欢自由和灵活的方式",
+        "key": "B"
+      }
+    ]
+  },
+  {
+    "title": "你在处理紧急情况时更倾向于：",
+    "options": [
+      {
+        "result": "T",
+        "value": "冷静分析和解决问题",
+        "key": "A"
+      },
+      {
+        "result": "F",
+        "value": "考虑情感和人际关系",
+        "key": "B"
+      }
+    ]
+  },
+  {
+    "title": "你更喜欢在生活中：",
+    "options": [
+      {
+        "result": "S",
+        "value": "依赖实际经验和具体事实",
+        "key": "A"
+      },
+      {
+        "result": "N",
+        "value": "通过想象和新的可能性",
+        "key": "B"
+      }
+    ]
+  },
+  {
+    "title": "你对于时间的管理是：",
+    "options": [
+      {
+        "result": "J",
+        "value": "严格按照时间表安排",
+        "key": "A"
+      },
+      {
+        "result": "P",
+        "value": "更喜欢弹性和自由安排",
+        "key": "B"
+      }
+    ]
+  },
+  {
+    "title": "在社交场合中，你更倾向于：",
+    "options": [
+      {
+        "result": "E",
+        "value": "主动和外向地交流",
+        "key": "A"
+      },
+      {
+        "result": "I",
+        "value": "深度和私密的交流",
+        "key": "B"
+      }
+    ]
+  },
+  {
+    "title": "你更看重在工作中：",
+    "options": [
+      {
+        "result": "E",
+        "value": "团队合作和协作",
+        "key": "A"
+      },
+      {
+        "result": "I",
+        "value": "独立思考和自主行动",
+        "key": "B"
+      }
+    ]
+  },
+  {
+    "title": "在面对不确定性时，你更喜欢：",
+    "options": [
+      {
+        "result": "J",
+        "value": "制定详细的备选计划",
+        "key": "A"
+      },
+      {
+        "result": "P",
+        "value": "保持灵活和随机应变",
+        "key": "B"
+      }
+    ]
+  },
+  {
+    "title": "你在学习新知识时更偏好：",
+    "options": [
+      {
+        "result": "S",
+        "value": "通过实践和具体经验学习",
+        "key": "A"
+      },
+      {
+        "result": "N",
+        "value": "通过理论和抽象概念学习",
+        "key": "B"
+      }
+    ]
+  },
+  {
+    "title": "你更关注以下哪种事物：",
+    "options": [
+      {
+        "result": "S",
+        "value": "具体细节和实际情况",
+        "key": "A"
+      },
+      {
+        "result": "N",
+        "value": "整体模式和未来发展",
+        "key": "B"
+      }
+    ]
+  },
+  {
+    "title": "在决策时，你更依赖于：",
+    "options": [
+      {
+        "result": "T",
+        "value": "逻辑和客观分析",
+        "key": "A"
+      },
+      {
+        "result": "F",
+        "value": "个人价值观和情感反应",
+        "key": "B"
+      }
+    ]
+  },
+  {
+    "title": "你更喜欢在工作中：",
+    "options": [
+      {
+        "result": "S",
+        "value": "按照预先制定的计划执行任务",
+        "key": "A"
+      },
+      {
+        "result": "N",
+        "value": "灵活应对新的挑战和情境",
+        "key": "B"
+      }
+    ]
+  },
+  {
+    "title": "你处理问题时更倾向于：",
+    "options": [
+      {
+        "result": "T",
+        "value": "依赖逻辑分析和客观事实",
+        "key": "A"
+      },
+      {
+        "result": "F",
+        "value": "考虑情感和人际关系",
+        "key": "B"
+      }
+    ]
+  },
+  {
+    "title": "在面对新挑战时，你通常会：",
+    "options": [
+      {
+        "result": "J",
+        "value": "预先制定详细的计划",
+        "key": "A"
+      },
+      {
+        "result": "P",
+        "value": "灵活应对和随机应变",
+        "key": "B"
+      }
+    ]
+  },
+  {
+    "title": "你更倾向于哪种方式来解决问题：",
+    "options": [
+      {
+        "result": "T",
+        "value": "逻辑分析和客观思考",
+        "key": "A"
+      },
+      {
+        "result": "F",
+        "value": "考虑他人情感和价值观",
+        "key": "B"
+      }
+    ]
+  },
+  {
+    "title": "在社交场合中，你更倾向于：",
+    "options": [
+      {
+        "result": "E",
+        "value": "参与多人交流和活动",
+        "key": "A"
+      },
+      {
+        "result": "I",
+        "value": "与少数亲密朋友交流",
+        "key": "B"
+      }
+    ]
+  },
+  {
+    "title": "你在工作中更喜欢：",
+    "options": [
+      {
+        "result": "E",
+        "value": "团队合作和集体决策",
+        "key": "A"
+      },
+      {
+        "result": "I",
+        "value": "独立思考和自主行动",
+        "key": "B"
+      }
+    ]
+  },
+  {
+    "title": "在面对问题时，你更注重：",
+    "options": [
+      {
+        "result": "S",
+        "value": "具体的事实和现实情况",
+        "key": "A"
+      },
+      {
+        "result": "N",
+        "value": "新的可能性和未来发展",
+        "key": "B"
+      }
+    ]
+  },
+  {
+    "title": "你在做决定时更依赖：",
+    "options": [
+      {
+        "result": "T",
+        "value": "逻辑分析和客观数据",
+        "key": "A"
+      },
+      {
+        "result": "F",
+        "value": "个人价值观和情感反应",
+        "key": "B"
+      }
+    ]
+  },
+  {
+    "title": "你更喜欢哪种工作环境：",
+    "options": [
+      {
+        "result": "E",
+        "value": "充满活力和团队合作的环境",
+        "key": "A"
+      },
+      {
+        "result": "I",
+        "value": "安静且独立的工作环境",
+        "key": "B"
+      }
+    ]
+  },
+  {
+    "title": "在处理冲突时，你更倾向于：",
+    "options": [
+      {
+        "result": "T",
+        "value": "依靠逻辑和客观分析",
+        "key": "A"
+      },
+      {
+        "result": "F",
+        "value": "考虑各方的情感和价值观",
+        "key": "B"
+      }
+    ]
+  },
+  {
+    "title": "在面对不确定性时，你更倾向于：",
+    "options": [
+      {
+        "result": "J",
+        "value": "制定计划以应对",
+        "key": "A"
+      },
+      {
+        "result": "P",
+        "value": "保持灵活应对变化",
+        "key": "B"
+      }
+    ]
+  },
+  {
+    "title": "你更喜欢在以下哪种环境中工作？",
+    "options": [
+      {
+        "result": "E",
+        "value": "团队协作和互动频繁的环境",
+        "key": "A"
+      },
+      {
+        "result": "I",
+        "value": "安静和独立的环境",
+        "key": "B"
+      }
+    ]
+  },
+  {
+    "title": "你在学习新事物时更倾向于：",
+    "options": [
+      {
+        "result": "S",
+        "value": "通过实践和经验学习",
+        "key": "A"
+      },
+      {
+        "result": "N",
+        "value": "通过理论和概念学习",
+        "key": "B"
+      }
+    ]
+  }
+]
