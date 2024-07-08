@@ -31,7 +31,10 @@ export default () => {
         开始测试
       </AtButton>
 
-      <Image className="headerBg" src={headerBg} />
+
+      <View className="headerBg">
+        <Image src={headerBg} />
+      </View>
 
       <GlobalFooter></GlobalFooter>
     </View>
